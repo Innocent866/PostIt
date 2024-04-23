@@ -1,0 +1,16 @@
+.btt{
+    background-color: #0086B0;
+    padding: 0 15px;
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    border: none;
+    border-radius: 8px;
+    font-family: Harmattan, sans-serif;
+}
+
+.list li{
+    font-family: Harmattan, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}

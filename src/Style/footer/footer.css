@@ -1,0 +1,37 @@
+.footer-input-btn{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-input{
+    border-radius: 10px;
+    width: 337px;
+    border: none;
+    padding: 10px;
+    height: 40px;
+}
+
+.footer-btn{
+    position: absolute;
+    right: 25px;
+    padding: 3px 9px;
+    background-color: #0086B0;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    border: none;
+    font-family: Open Sans, sans-serif;
+}
+
+
+
+@media screen and (min-width: 1024px ) {
+    .footer-p{
+        width: 427px;
+    }
+
+    .footer-btn{
+        right: 10px;
+    }
+}
